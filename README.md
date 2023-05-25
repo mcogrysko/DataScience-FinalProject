@@ -1,4 +1,4 @@
-# DataScience - Final Project
+# Data Science - Final Project
 
 Mike Ogrysko
 
